@@ -21,22 +21,16 @@ img {
 }
 
 table {
-    border: 2px solid black;
+    border-collapse: collapse;
     font-size: 12px;
     text-align: center;
 }
 
-td {
-    border: 2px solid black;
+table, th, td {
+    border: 1px solid black;
 }
 
-th {
-    border: 2px solid black;
-}
-
-/*CUSTOM CLASSES*/
-centering {
-    display: block;
-    margin: 0 auto;
-    text-align: center;
-}
+/*CUSTOM CLASSES
+pirana-store {
+    background-image: 
+}*/
