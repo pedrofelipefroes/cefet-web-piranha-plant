@@ -1,0 +1,42 @@
+body {
+    font-family: "Arial";
+}
+
+h1 {
+    color: #38761d;
+    font-size: 28px;
+    font-family: "Times New Roman";
+}
+
+h2 {
+    color: #38761d;
+    font-size: 24px;
+    font-family: "Times New Roman";
+}
+
+img {
+    border: 4px solid #6aa84f;
+    display: block;
+    margin: 0 auto;
+}
+
+table {
+    border: 2px solid black;
+    font-size: 12px;
+    text-align: center;
+}
+
+td {
+    border: 2px solid black;
+}
+
+th {
+    border: 2px solid black;
+}
+
+/*CUSTOM CLASSES*/
+centering {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
