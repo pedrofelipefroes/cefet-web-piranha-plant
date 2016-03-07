@@ -1,5 +1,8 @@
 body {
     font-family: "Arial";
+    background-image: url(imagens/videira.png);
+    background-repeat: no-repeat;
+    background-position: top right;
 }
 
 h1 {
@@ -23,14 +26,11 @@ img {
 table {
     border-collapse: collapse;
     font-size: 12px;
+    margin: 0px auto;
+    margin-top: 10px;
     text-align: center;
 }
 
 table, th, td {
     border: 1px solid black;
 }
-
-/*CUSTOM CLASSES
-pirana-store {
-    background-image: 
-}*/
